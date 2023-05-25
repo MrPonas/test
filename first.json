@@ -1,1 +1,6 @@
-
+{
+  "issuer": "https://lightning-giant-screen.glitch.me",
+  "authorization_endpoint": "https://raw.githubusercontent.com/MrPonas/test/main/second.json",
+  "token_endpoint": "https://raw.githubusercontent.com/MrPonas/test/main/second.json",
+  "jwks_uri": "https://raw.githubusercontent.com/MrPonas/test/main/second.json"
+}
